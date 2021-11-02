@@ -19,6 +19,6 @@ vegetable:b0001 a skos:Concept ;
     skos:topConceptOf vegetable: .
 
 vegetable:b0002 a skos:Concept ;
-skos:prefLabel "Möhre"@de, "carot"@en ;
-// skos:exactMatch vegetable:b0001 .
-skos:topConceptOf vegetable: .
+    skos:prefLabel "Möhre"@de, "carot"@en ;
+    skos:exactMatch vegetable:b0001 .
+    skos:topConceptOf vegetable: .
