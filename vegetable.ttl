@@ -13,4 +13,7 @@ vegetable: a skos:ConceptScheme ;
 vegetable:b0001 a skos:Concept ;
     skos:prefLabel "Karotte"@de, "carot"@en ;
     skos:altLabel "Möhre"@de;
+    skos:altLabel "Mohrrübe"@de;
+    skos:altLabel "Wurzel"@de;
+    skos:altLabel "Gelbe Rübe"@de;
     skos:topConceptOf vegetable: .
