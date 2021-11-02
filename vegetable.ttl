@@ -17,3 +17,7 @@ vegetable:b0001 a skos:Concept ;
     skos:altLabel "Wurzel"@de;
     skos:altLabel "Gelbe Rübe"@de;
     skos:topConceptOf vegetable: .
+
+vegetable:b0002 a skos:Concept ;
+skos:prefLabel "Möhre"@de, "carot"@en ;
+skos:exactMatch vegetable:b0001 .
